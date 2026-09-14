@@ -1,0 +1,15 @@
+Layout;;;
+Position:;Length:;Type:;Description:
+25584;33;text;Color display notice.
+25618;47;text;Display requirement notice.
+28064;36;text;Joystick question.
+28101;626;text;Skill level selection and control description.
+28817;99;text;Game paused notice.
+28916;4;text;Skill level keys.
+34824;7;code;Get vertical retrace status.
+53392;54;code;Video initialization.
+53446;8;code;Display color monitor notification.
+53454;9;code;Set program data segment and display stringz.
+53851;16;code;Display stringz.
+54335;21;code;Joystick presence test.
+54357;14;code;Joystick timeout check.
